@@ -4,3 +4,6 @@
 [submodule "heroes-user-api"]
 	path = heroes-user-api
 	url = https://github.com/kpeara/heroes-user-api.git
+[submodule "heroes-app"]
+	path = heroes-app
+	url = https://github.com/kpeara/heroes-app.git
