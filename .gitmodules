@@ -1,0 +1,3 @@
+[submodule "heroes-api"]
+	path = heroes-api
+	url = https://github.com/kpeara/heroes-api.git
