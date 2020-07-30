@@ -10,9 +10,11 @@ Because I'm using a microservice architecture I can see myself updating this pro
 
 Screencaps:
 
+<p align="middle">
 <img src="./images/register.png" height=500>
 <img src="./images/login.png" height=500>
 <img src="./images/app.png" height=500>
+</p>
 
 ## Project setup
 ```
