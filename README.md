@@ -22,6 +22,7 @@ npm install
 ```
 
 ### Compiles and hot-reloads for development
+#### Runs entire microservice
 ```
-npm run serve
+npm run start
 ```
