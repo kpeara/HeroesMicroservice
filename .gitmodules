@@ -7,3 +7,6 @@
 [submodule "heroes-app"]
 	path = heroes-app
 	url = https://github.com/kpeara/heroes-app.git
+[submodule "heroes-db"]
+	path = heroes-db
+	url = https://github.com/kpeara/heroes-db-init.git

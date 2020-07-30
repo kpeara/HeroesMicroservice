@@ -1,5 +1,4 @@
 .DS_Store
-heroes-db/
 heroes-old-apps/
 node_modules/
 package-lock.json
