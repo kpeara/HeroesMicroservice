@@ -1,4 +1,4 @@
-# myHeroesMicroservice
+# HeroesMicroservice
 
 My first microservice. Built with Vue Js (version 2) and Node Js (with Express). The functionality of this app (and more screenshots) can be found in the <strong>heroes-app</strong> repository. Basically it performs CRUD operations on some data. I decided to use heroes. Each hero has a name, info and you can optionally add ayear. I have no idea what I meant by a hero's year, I just wanted an optional parameter :joy:. In the future I hope to:
 
